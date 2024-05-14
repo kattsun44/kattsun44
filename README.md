@@ -1,5 +1,5 @@
 ## My Skills 🌱
-[![My Skills](https://skillicons.dev/icons?i=go,ruby,php,python,firebase,aws,gcp,rails,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ruby,php,python,firebase,aws,gcp,rails,vscode,wordpress&theme=dark)](https://skillicons.dev)
 
 
 <!--
